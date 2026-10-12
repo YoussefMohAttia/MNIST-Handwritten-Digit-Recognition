@@ -19,7 +19,7 @@ This project trains and evaluates neural-network classifiers on the MNIST handwr
 - Neural-network training and evaluation for digits `0` through `9`
 - Confusion matrix and classification-report analysis
 - The original MNIST IDX data files used by the notebook
-- Assignment brief and exported project output
+- Reproducible dataset-backed experiment in a single notebook
 
 ## Repository Structure
 
@@ -30,8 +30,7 @@ This project trains and evaluates neural-network classifiers on the MNIST handwr
 ├── train-labels.idx1-ubyte           # MNIST training labels
 ├── t10k-images.idx3-ubyte            # MNIST test images
 ├── t10k-labels.idx1-ubyte            # MNIST test labels
-├── Assignment.pdf
-└── Output.pdf
+└── README.md
 ```
 
 ## Getting Started
